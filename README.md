@@ -1,27 +1,97 @@
-# 💫 About Me:
-👋 Hi there, I'm Deepta Roy<br>🚀 A passionate Full Stack Developer from India, with a strong interest in backend development using Java and Spring Boot, and growing expertise in React Native for building cross-platform apps.<br><br>🔧 Currently exploring the world of scalable backend systems and diving deep into modern frameworks and microservice architectures.<br><br>💼 All of my projects are live here: https://portfolio-website-six-orcin-12.vercel.app/<br><br>💬 I love talking about Java, React Native, and anything related to System Design, API Development, or DevOps with Docker.<br><br>📫 Feel free to reach out to me at: roydeepta619@gmail.com<br><br>🛠 Tech Stack & Tools<br>Languages: Java, C, C++, JavaScript, Python, TypeScript, PHP<br><br>Frameworks: Spring Boot, React, React Native, Vue.js<br><br>Tools & Platforms: Docker, Git, MongoDB, Firebase, MySQL, Linux<br><br>🌱 I’m currently learning:<br>Advanced Spring Boot concepts<br><br>Building production-grade mobile apps with React Native<br><br>Scalable backend strategies and CI/CD practices<br><br>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nil.roy_online) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepta-roy-2601852a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roydeepta619@gmail.com) 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23DFC6B4&size=25&width=900&height=40&lines=If+debugging+is+the+process+of+removing+bugs,;then+programming+must+be+the+process+of+putting+them+in.;It+works,+but+I+don’t+know+why.;Walking+on+water+and+developing+software+from;a+specification+are+easy+if+both+are+frozen.;It’s+not+a+bug+—+it’s+an+undocumented+feature.;It+works+on+my+machine.">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ROYMYSTERIO619&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ROYMYSTERIO619&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ROYMYSTERIO619&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ROYMYSTERIO619&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Happy Coding! 😊
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ROYMYSTERIO619&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=ROYMYSTERIO619&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Bachelors in Computer Science Engineering along with minors in Electronics from Narula Institute of Technology,Kolkata.
+- ✍️ &nbsp; Specialisation in Machine Intelligence and Data Science and app-development.
+
+<img width="100%" opacity="50%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+### 👨‍💻 Languages and Tools
+
+<br />
+
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=brightgreen)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL&logoColor=cyan)
+![GO](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=go)
+
+
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+
+
+
+
+![Django](http://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+![GCP](http://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R&logoColor=blue)
+![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=orange)
+![Php](http://img.shields.io/badge/-Php-000000?style=for-the-badge&logo=Php&logoColor=white)
+![Spark](http://img.shields.io/badge/-Spark-000000?style=for-the-badge&logo=Apache-Spark&logoColor=yellow)
+
+
+
+
+![Deepta's github stats](https://github-readme-stats.vercel.app/api?username=ROYMYSTERIO619&&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs,issues&include_all_commits=true&hide_rank=true)
+<p align="center">
+  </br>
+  <i>Let's connect and chat! Open to anything under the sun</i>
+ </p>
+<p align="center">
+ <a href="mailto:roydeepta619@gmail.com" target="_blank">
+    <img align="center" alt="roydeepta619@gmail.com | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+ <a href="https://www.linkedin.com/in/deepta-roy-2601852a1" target="_blank">
+    <img align="center" alt="Deepta Roy | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  
+  <a href="https://instagram.com/nil.roy_online" target="_blank">
+    <img align="center" alt="nil.roy_online | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+
+   <a href="https://www.cloudskillsboost.google/public_profiles/1732a518-e3e6-4853-b802-62ldcc0078bf" target="_blank">
+    <img align="center" alt="Deepta Roy | Google Cloud" width="24px" src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/gcp.png" />
+  </a> &nbsp;&nbsp;
+  </a> &nbsp;&nbsp;
+  
+
+<p> 
+<p align = "center">
+ <a href="https://dapper-kleicha-8459f6.netlify.app/">
+   <b>My Website!!!</b>
+ </a></p>
+
+ 
+  
+  
+  <!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<p align="right"?
+ <picture>
+  
+  <img  width="500" height="400" src="https://github.com/Ajitesh27/Ajitesh27/blob/main/Vanilla-3.4s-280px.svg">
+</picture>
+   </p>
