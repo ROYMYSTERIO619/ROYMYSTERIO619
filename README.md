@@ -90,8 +90,5 @@ Happy Coding! 😊
 </div>
 
 <p align="right"?
- <picture>
-  
-  <img  width="500" height="400" src="https://github.com/Ajitesh27/Ajitesh27/blob/main/Vanilla-3.4s-280px.svg">
-</picture>
+
    </p>
