@@ -13,7 +13,7 @@ Happy Coding! 😊
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Bachelors in Computer Science Engineering along with minors in Electronics from Narula Institute of Technology,Kolkata.
+- 🎓 &nbsp; Bachelors in Computer Science Engineering along with a deep interest in AI and ML from Narula Institute of Technology,Kolkata.
 - ✍️ &nbsp; Specialisation in Machine Intelligence and Data Science and app-development.
 
 <img width="100%" opacity="50%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
